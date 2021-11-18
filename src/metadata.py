@@ -5,6 +5,7 @@ team_color = {
     'GL' : 'purple',
     'KKR' :'violet',
     'KXIP' :'#DCDDDF',
+    'PBKS':'#DCDDDF',
     'Kochi' : 'green',
     'MI' :'blue',
     'PWI' : 'grey',

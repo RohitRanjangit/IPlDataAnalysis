@@ -20,4 +20,24 @@ season_bowling_card_df = pd.DataFrame(season_bowling_card)
 season_details_df = pd.DataFrame(season_details)
 season_summary_df = pd.DataFrame(season_summary)
 
+# %%
+points_table_df.replace('KXIP', 'PBKS', inplace=True, regex=True)
+season_batting_card_df.replace('KXIP', 'PBKS', inplace=True, regex=True)
+season_bowling_card_df.replace('KXIP', 'PBKS', inplace=True, regex=True)
+season_details_df.replace('KXIP', 'PBKS', inplace=True, regex=True)
+season_summary_df.replace('KXIP', 'PBKS', inplace=True, regex=True)
+
+points_table_df.replace('Kings XI Punjab', 'Punjab Kings', inplace=True, regex=True)
+season_batting_card_df.replace('Kings XI Punjab', 'Punjab Kings', inplace = True,regex=True)
+season_bowling_card_df.replace('Kings XI Punjab', 'Punjab Kings', inplace = True, regex=True)
+season_details_df.replace('Kings XI Punjab', 'Punjab Kings', inplace = True, regex=True)
+season_summary_df.replace('Kings XI Punjab', 'Punjab Kings', inplace = True, regex=True)
+
+# %%
+points_table.to_csv('../data/processed/points_table.csv', index=False)
+season_batting_card.to_csv('../data/processed/season_batting_card.csv', index=False)
+season_bowling_card.to_csv('../data/processed/season_bowling_card.csv', index=False)
+season_details.to_csv('../data/processed/season_details.csv', index=False)
+season_summary.to_csv('../data/processed/season_summary.csv', index=False)
+
 
