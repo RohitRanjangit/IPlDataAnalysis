@@ -1,17 +1,16 @@
 team_color = {
-    'RCB' :'red',
-    'CSK' : '#FFFF3C',
-    'DC' : '#00008B',
+    'RCB' :'#db1316',
+    'CSK' : '#fdb913',
+    'DC' : '#2561AE',
     'GL' : 'purple',
-    'KKR' :'violet',
-    'KXIP' :'#DCDDDF',
-    'PBKS':'#DCDDDF',
-    'Kochi' : 'green',
-    'MI' :'blue',
-    'PWI' : 'grey',
+    'KKR' :'#391F5C',
+    'PBKS':'#dd1212',
+    'Kochi' : '#b603fc',
+    'MI' :'#004587',
+    'PWI' : '#2b2e33',
     'RPS' : 'black',
-    'RR' : 'pink',
-    'SRH' : 'orange'
+    'RR' : '#FF4081',
+    'SRH' : '#fb653f'
 }
 
 

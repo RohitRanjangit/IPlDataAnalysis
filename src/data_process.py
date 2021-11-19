@@ -19,3 +19,6 @@ season_batting_card_df = pd.DataFrame(season_batting_card)
 season_bowling_card_df = pd.DataFrame(season_bowling_card)
 season_details_df = pd.DataFrame(season_details)
 season_summary_df = pd.DataFrame(season_summary)
+
+team_code_dict = dict(zip(points_table_df['name'], points_table_df['short_name']))
+team_name_dict = dict(zip(points_table_df['short_name'], points_table_df['name']))
