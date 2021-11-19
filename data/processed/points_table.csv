@@ -79,7 +79,7 @@ season,rank,name,short_name,matchesplayed,matcheswon,matcheslost,noresult,matchp
 2012,5,Royal Challengers Bangalore,RCB,16,8,7,1,17,-0.022,2472/296.2,2505/299.3
 2012,6,Punjab Kings,PBKS,16,8,8,0,16,-0.216,2390/313.3,2455/313.1
 2012,7,Rajasthan Royals,RR,16,7,9,0,14,0.201,2516/316.0,2402/309.3
-2012,8,Sunrisers Hyderabad,SRH,16,4,11,1,9,-0.509,2312/298.4,2405/291.3
+2012,8,Deccan Chargers,SRH,16,4,11,1,9,-0.509,2312/298.4,2405/291.3
 2012,9,Pune Warriors,PWI,16,4,12,0,8,-0.551,2321/319.2,2424/310.0
 2011,1,Royal Challengers Bangalore,RCB,14,9,4,1,19,0.326,1962/237.0,2000/251.3
 2011,2,Chennai Super Kings,CSK,14,9,5,0,18,0.443,2118/265.1,1978/262.1
@@ -87,12 +87,12 @@ season,rank,name,short_name,matchesplayed,matcheswon,matcheslost,noresult,matchp
 2011,4,Kolkata Knight Riders,KKR,14,8,6,0,16,0.433,1888/249.2,1861/260.4
 2011,5,Punjab Kings,PBKS,14,7,7,0,14,-0.051,2224/275.4,2173/267.4
 2011,6,Rajasthan Royals,RR,14,6,7,1,13,-0.691,1687/242.2,1801/235.2
-2011,7,Sunrisers Hyderabad,SRH,14,6,8,0,12,0.222,2140/279.2,2037/273.5
+2011,7,Deccan Chargers,SRH,14,6,8,0,12,0.222,2140/279.2,2037/273.5
 2011,8,Kochi Tuskers Kerala,Kochi,14,6,8,0,12,-0.214,1901/256.2,1989/260.4
 2011,9,Pune Warriors,PWI,14,4,9,1,9,-0.134,1775/247.3,1858/254.2
 2011,10,Delhi Capitals,DC,14,4,9,1,9,-0.448,2031/258.2,2076/249.5
 2010,1,Mumbai Indians,MI,14,10,4,0,20,1.084,2408/277.0,2100/276.0
-2010,2,Sunrisers Hyderabad,SRH,14,8,6,0,16,-0.297,2188/277.4,2254/275.4
+2010,2,Deccan Chargers,SRH,14,8,6,0,16,-0.297,2188/277.4,2254/275.4
 2010,3,Chennai Super Kings,CSK,14,7,7,0,14,0.274,2285/271.1,2257/276.5
 2010,4,Royal Challengers Bangalore,RCB,14,7,7,0,14,0.219,2166/260.4,2245/277.3
 2010,5,Delhi Capitals,DC,14,7,7,0,14,0.021,2155/275.4,2166/277.5
@@ -102,7 +102,7 @@ season,rank,name,short_name,matchesplayed,matcheswon,matcheslost,noresult,matchp
 2009,1,Delhi Capitals,DC,14,10,4,0,20,0.311,1978/255.2,1953/262.4
 2009,2,Chennai Super Kings,CSK,14,8,5,1,17,0.951,2086/255.3,1855/257.1
 2009,3,Royal Challengers Bangalore,RCB,14,8,6,0,16,-0.191,1994/276.0,2027/273.2
-2009,4,Sunrisers Hyderabad,SRH,14,7,7,0,14,0.203,2111/272.4,2097/278.1
+2009,4,Deccan Chargers,SRH,14,7,7,0,14,0.203,2111/272.4,2097/278.1
 2009,5,Punjab Kings,PBKS,14,7,7,0,14,-0.483,1787/251.2,1887/248.3
 2009,6,Rajasthan Royals,RR,14,6,7,1,13,-0.352,1688/253.1,1810/257.5
 2009,7,Mumbai Indians,MI,14,5,8,1,11,0.297,1897/256.2,1802/253.4
@@ -114,4 +114,4 @@ season,rank,name,short_name,matchesplayed,matcheswon,matcheslost,noresult,matchp
 2008,5,Mumbai Indians,MI,14,7,7,0,14,0.57,2080/249.1,2096/269.3
 2008,6,Kolkata Knight Riders,KKR,14,6,7,1,13,-0.147,1845/242.4,1718/221.4
 2008,7,Royal Challengers Bangalore,RCB,14,4,10,0,8,-1.16,1983/272.4,2205/261.3
-2008,8,Sunrisers Hyderabad,SRH,14,2,12,0,4,-0.467,2229/270.0,2307/264.3
+2008,8,Deccan Chargers,SRH,14,2,12,0,4,-0.467,2229/270.0,2307/264.3
