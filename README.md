@@ -30,12 +30,13 @@ After conversion of raw data to usable data, now the code for extracting useful 
 
 
 ## Team Members::
-
-### 1. Rohit Ranjan
-### 2. Aman Tayal
-### 3. Arpit Agarwal
-### 4. Pranati Manjhi
-### 5. Varchasv Shri
+```
+1. Rohit Ranjan
+2. Aman Tayal
+3. Arpit Agarwal
+4. Pranati Manjhi
+5. Varchasv Shri
+```
 
 
 
