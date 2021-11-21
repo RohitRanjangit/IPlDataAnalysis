@@ -21,7 +21,6 @@ This project Runs on Python 3.7.3 and uses the libraries in requirements.txt.
 ### Some Screenhots
 
 ![](img/pngs/best_dth_bowlers.png)
-![](img/pngs/toss_win_to_win_count.png)
 ![](img/pngs/top_umpires.png)
 ![](img/pngs/batsman_clustering.png)
 ![](img/pngs/bowler_clustering.png)
