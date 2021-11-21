@@ -13,12 +13,19 @@ This project Runs on Python 3.7.3 and uses the libraries in requirements.txt.
 **Run** <br>
 `$ pip3 install -r equirements.txt`
 
+## Project Structure
+**Data** Directory contains the data files of the project.
+**src** Directory contains the source code of the project including python notebooks and python scripts.
+**Visualizations.ipynb** contains the notebooks for all Visualizations.
+
 ### Some Screenhots
 
 ![](img/pngs/best_dth_bowlers.png)
 ![](img/pngs/toss_win_to_win_count.png)
 ![](img/pngs/top_umpires.png)
-
+![](img/pngs/batsman_clustering.png)
+![](img/pngs/bowler_clustering.png)
+![](img/pngs/batsman_clustering_price.png)
 ## Project Overview
 ![](img/pngs/ipl_data_mining_overview.png)
 In the first stage, data was obtained from various sources. Although the datasets obtained have all the potential of providing the necessary information for extracting the results, they need to be pre-processed.
@@ -34,7 +41,7 @@ After conversion of raw data to usable data, now the code for extracting useful 
 1. Rohit Ranjan
 2. Aman Tayal
 3. Arpit Agarwal
-4. Pranati Manjhi
+4. Pranati Majhi
 5. Varchasv Shri
 ```
 
