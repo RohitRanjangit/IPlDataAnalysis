@@ -1,10 +1,10 @@
 team_color = {
-    'RCB' :'#db1316',
+    'RCB' :'#A52A2A',
     'CSK' : '#fdb913',
     'DC' : '#2561AE',
     'GL' : 'purple',
     'KKR' :'#391F5C',
-    'PBKS':'#dd1212',
+    'PBKS':'#df1212',
     'Kochi' : '#b603fc',
     'MI' :'#004587',
     'PWI' : '#2b2e33',
