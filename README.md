@@ -14,9 +14,9 @@ This project Runs on Python 3.7.3 and uses the libraries in requirements.txt.
 `$ pip3 install -r requirements.txt`
 
 ## Project Structure
-**Data** Directory contains the data files of the project.
-**src** Directory contains the source code of the project including python notebooks and python scripts.
-**Visualizations.ipynb** contains the notebooks for all Visualizations.
+**Data** Directory contains the data files of the project. <br>
+**src** Directory contains the source code of the project including python notebooks and python scripts. <br>
+**Visualizations.ipynb** contains the notebooks for all Visualizations. <br>
 
 ### Some Screenhots
 
